@@ -11,7 +11,7 @@ const slides = [
   {
     id: 2,
     brand: "Lyra",
-    image: "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&q=80&w=2400",
+    image: "LYRA-WEB-BANNER-1800-X-800_c3160024-4be3-4c77-aedd-10b9896fb567_1944x.webp",
     description: "Contemporary women's fashion"
   },
   {
