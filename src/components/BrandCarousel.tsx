@@ -11,13 +11,13 @@ const slides = [
   {
     id: 2,
     brand: "Lyra",
-    image: "LYRA-WEB-BANNER-1800-X-800_c3160024-4be3-4c77-aedd-10b9896fb567_1944x.webp",
+    image: "public/images/LYRA-WEB-BANNER-1800-X-800_c3160024-4be3-4c77-aedd-10b9896fb567_1944x.png",
     description: "Contemporary women's fashion"
   },
   {
     id: 3,
     brand: "Supersox",
-    image: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&q=80&w=2400",
+    image: "public/images/KARTIK_ARYAN_MAIN_PAGE_BANNER.png",
     description: "Stylish and comfortable socks"
   },
   {
@@ -41,7 +41,7 @@ const slides = [
   {
     id: 7,
     brand: "Mitushi",
-    image: "https://images.unsplash.com/photo-1506152983158-b4a74a01c721?auto=format&fit=crop&q=80&w=2400",
+    image: "public/images/real mitushi.png",
     description: "Ethnic and traditional designs"
   },
   {
