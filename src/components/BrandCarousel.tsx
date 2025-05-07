@@ -17,7 +17,7 @@ const slides = [
   {
     id: 3,
     brand: "Supersox",
-    image: "public/images/KARTIK_ARYAN_MAIN_PAGE_BANNER.png?auto=format&fit=crop&q=80&w=2400",
+    image: "public/lovable-uploads/f0f875d6-34e1-4ae0-a176-6cc9d62859dd.png",
     description: "Stylish and comfortable socks"
   },
   {
