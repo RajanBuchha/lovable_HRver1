@@ -12,14 +12,7 @@ const HeroSection = () => {
         <h3 className="font-serif text-3xl sm:text-4xl md:text-5xl tracking-wide animate-fade-in" style={{ animationDelay: '0.3s' }}>
           The Brand Destination
         </h3>
-
-        <h1
-          className="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter animate-fade-in"
-          style={{ animationDelay: '0.6s' }}
-        >
-          H R Apparel
-        </h1>
-
+        
         <div className="w-24 h-1 bg-black mx-auto my-6 animate-fade-in" style={{ animationDelay: '0.9s' }}></div>
 
         <p className="font-sans text-gray-600 max-w-2xl mx-auto text-lg animate-fade-in" style={{ animationDelay: '1.2s' }}>
