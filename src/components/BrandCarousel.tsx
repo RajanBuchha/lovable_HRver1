@@ -11,7 +11,7 @@ const slides = [
   {
     id: 2,
     brand: "Lyra",
-    image: "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&q=80&w=2400",
+    image: "public/lovable-uploads/04edb53c-fbc6-4449-8c2d-aaa97cc2a169.png",
     description: "Contemporary women's fashion"
   },
   {
@@ -41,7 +41,7 @@ const slides = [
   {
     id: 7,
     brand: "Mitushi",
-    image: "public/images/real mitushi.png",
+    image: "public/lovable-uploads/2d91dd8c-96b0-47b0-a74f-b92f4dc42467.png",
     description: "Ethnic and traditional designs"
   },
   {
