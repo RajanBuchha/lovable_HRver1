@@ -3,14 +3,17 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="relative py-20 md:py-28 lg:py-36 bg-white text-center px-4">
-      <div className="max-w-5xl mx-auto space-y-3">
-        <h2 className="font-sans text-xl sm:text-2xl md:text-3xl tracking-wider animate-fade-in">
+    <section className="relative py-20 md:py-28 lg:py-36 px-4" style={{ backgroundColor: '#E0F7FA' }}>
+      <div className="max-w-5xl mx-auto space-y-3 text-center">
+        <h2 className="font-sans text-xl sm:text-2xl md:text-3xl tracking-wider animate-fade-in" style={{ color: '#102027' }}>
           Welcome to
         </h2>
 
-        <h3 className="font-serif text-3xl sm:text-4xl md:text-5xl tracking-wide animate-fade-in" style={{ animationDelay: '0.3s' }}>
-          The Brand Destination
+        <h3 
+          className="font-serif text-3xl sm:text-4xl md:text-5xl tracking-wide animate-fade-in" 
+          style={{ color: '#102027', textDecoration: 'none', animationDelay: '0.3s' }}
+        >
+          H R Apparel
         </h3>
         
         <div className="w-24 h-1 bg-black mx-auto my-6 animate-fade-in" style={{ animationDelay: '0.9s' }}></div>
